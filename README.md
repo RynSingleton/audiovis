@@ -81,6 +81,12 @@ make help     # list available targets
 ```
 
 ---
+### Next Steps
+
+Live audio reading with audio devices!
+tkinter window with customizable colorations and graphics!
+
+---
 
 ### License
 
